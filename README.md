@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nihal Haris</h1>
+<h1 align="center">Hi 👋, I'm Nihla Haris</h1>
 <h3 align="center">I'm a passionate computer science student pursuing my B.Tech with a specialization in Computer Science. I have a keen interest in software development, artificial intelligence, and web development.</h3>
 
 - 🔭 My team and I developed a Smart Parking,Gate-pass management system .<br/>

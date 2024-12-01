@@ -3,7 +3,7 @@
 
 - 🔭 My team and I developed a Smart Parking,Gate-pass management system .<br/>
 
-- 🌱 I’m currently learning react js and mongo db.</br>
+- 🌱 I’m currently learning Javascript and Typescript.</br>
 
 - 📫 How to reach me https://www.linkedin.com/in/nihla-haris-557861211/ or nihlaharis@gmail.com Feel free to explore my repositories &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and reach out to me for collaborations or just to say hi! 😊
 

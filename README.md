@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning react js and mongo db.</br>
 
-- 📫 How to reach me https://www.linkedin.com/in/nihla-haris-557861211/ or nihlaharis@gmail.com Feel free to explore my repositories &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and reach out to me for collaborations or just to say hi! 😊
+- 📫 How to reach me https://www.linkedin.com/in/nihla-haris-557861211/ or nihlaharis@gmail.com Feel free to explore my repositories &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and reach out to me for collaborations or just to say hi! 😊
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NihlaHaris&label=Profile%20views&color=0e75b6&style=flat" alt="NihlaHaris" /> </p>

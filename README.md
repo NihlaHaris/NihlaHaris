@@ -27,6 +27,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nihla-haris-557861211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nihla Haris" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/afthabcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@afthabcm" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/811581844327759884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="afthab c n#0409" height="30" width="40" /></a>
+
 </p>
